@@ -1,0 +1,3 @@
+this is test to git hub commit command 
+and writing to a file in terminal
+thanks for letting me 
