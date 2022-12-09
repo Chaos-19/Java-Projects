@@ -1,0 +1,32 @@
+	DEBRE TABOR UNIVERSITY 
+	 Freshman Faculty
+-----------------------------------------------
+Admission Classification : Regular	Major : Natural Scince 
+
+Programme : Degree   Ac Year : 2022/2013     Section  : 16
+  Year : 1	 Semester : 1
+Student Name :Kalkidan	 DTU13R0991  
+ Mekonn 
+---------------------------
+5  68.0   2.75     B-    13.75
+5  93.0   4.0     A+    20.0
+5  78.0   3.5     B+    17.5
+5  77.0   3.5     B+    17.5
+5  90.0   4.0     A+    20.0
+5  76.0   3.5     B+    17.5
+
+
+ Semester total  30   106.25  3.5416666666666665  B+
+	Remark
+	 First Class with grate Distinction 
+	 First Class With Distinction 
+	 First Class 
+	Scond Class 
+	 Lower Class 
+	Lowest Class  
+
+	 Pass 
+	Acadamic Warnig 
+	 Forced withdrawal 
+	Acadamic Dismissal 
+	 Complete Acadamic Dismissal 
